@@ -134,7 +134,7 @@ ForegroundPositive={{colors.ok|rgb}}
 ForegroundVisited={{colors.accent|rgb}}
 
 [General]
-ColorScheme=Frameshell
+ColorScheme=Facet
 Name=facet tui
 shadeSortColumn=true
 
